@@ -31,7 +31,7 @@
 ```
 apt update ; apt-get install python git ; git clone https://github.com/Phantom-19/Border.git ; cd Border ; python3 bord.py  
 ```
-## ` Aprçue > `
+## ` Aperçue > `
 <p align="center">
 <img alt="profile pic" width="600px" src="https://github.com/Phantom-19/Border/blob/master/capture/fax1.png"/> 
 <img alt="profile pic" width="600px" src="https://github.com/Phantom-19/Border/blob/master/capture/fax2.png"/> 
