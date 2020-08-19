@@ -18,10 +18,18 @@
 <p align="right">
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
+pip2 install argparse
+pip2 install requests
+pip2 install PySocks
+pip2 install asyncio
+pip2 install proxybroker
+pip2 install simplejson
 
 ## `Installation Border `:
 
-* `apt update`
+* `apt-get update`
+* `apt-get install ruby toilet figlet cowsay`
+* `gem install lolcat`
 * `apt-get install python git `
 * `git clone https://github.com/Phantom-19/Border.git`
 * `cd Border`
@@ -29,7 +37,7 @@
 
 ##  `Commande unique de Border`:
 ```
-apt update ; apt-get install python git ; git clone https://github.com/Phantom-19/Border.git ; cd Border ; python3 bord.py  
+apt update ; apt-get install python git ; apt-get install ruby toilet figlet cowsay ; gem install lolcat ; git clone https://github.com/Phantom-19/Border.git ; cd Border ; python3 bord.py  
 ```
 ## ` Aperçue > `
 <p align="center">
