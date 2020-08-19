@@ -18,12 +18,6 @@
 <p align="right">
 <a href="#"><img title="Langage" src="https://forthebadge.com/images/badges/made-with-python.svg"></a>
 </p>
-pip2 install argparse
-pip2 install requests
-pip2 install PySocks
-pip2 install asyncio
-pip2 install proxybroker
-pip2 install simplejson
 
 ## `Installation Border `:
 
