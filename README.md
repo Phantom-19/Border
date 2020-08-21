@@ -22,16 +22,14 @@
 ## `Installation Border `:
 
 * `apt-get update`
-* `apt-get install ruby toilet figlet cowsay`
-* `gem install lolcat`
 * `apt-get install python git `
 * `git clone https://github.com/Phantom-19/Border.git`
 * `cd Border`
-## ` Execution > ` `python3 bord.py `
+## ` Execution > ` `python2 bord.py `
 
 ##  `Commande unique de Border`:
 ```
-apt update ; apt-get install python git ; apt-get install ruby toilet figlet cowsay ; gem install lolcat ; git clone https://github.com/Phantom-19/Border.git ; cd Border ; python3 bord.py  
+apt update ; apt-get install python git ; apt-get install ruby toilet figlet cowsay ; gem install lolcat ; git clone https://github.com/Phantom-19/Border.git ; cd Border ; python2 bord.py  
 ```
 ## ` Aperçue > `
 <p align="center">
